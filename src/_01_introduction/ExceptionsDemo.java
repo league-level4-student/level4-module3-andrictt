@@ -30,6 +30,7 @@ public class ExceptionsDemo {
 		//    CustomException object.
 		//    This demonstrates how custom exception classes can be used to
 		//    handle exceptions in unlimited ways.
+
 	}
 	
 	public static void testMethod1(int x) throws Exception {
